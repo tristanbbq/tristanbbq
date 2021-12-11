@@ -1,4 +1,4 @@
-### Ola 👋
+### Bonjour 👋
 
 - I mainly work on Web & Mobile apps using Javascript (React, Redux, etc.) 💻📱
 - I am currently specially enthusiast on building data vizualisation side projects 📊
